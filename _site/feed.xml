@@ -1,107 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediator</title>
-    <description>A Jekyll theme - Medium inspired
+    <title>Alejandro Velasco</title>
+    <description>PhD Student - Computer Science. Arts &amp; Sciences, William &amp; Mary.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Aug 2022 14:29:49 -0400</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2022 14:29:49 -0400</lastBuildDate>
+    <pubDate>Sun, 14 Aug 2022 20:33:12 -0400</pubDate>
+    <lastBuildDate>Sun, 14 Aug 2022 20:33:12 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Mediator Features</title>
-        <description>&lt;p&gt;#Mediator Formats and CSS features&lt;/p&gt;
+        <title>About me</title>
+        <description>&lt;p&gt;Greetings! my name is &lt;strong&gt;Alejandro Velasco&lt;/strong&gt;. I am a PhD Student of Computer Science at &lt;a href=&quot;https://www.wm.edu&quot;&gt;William and Mary&lt;/a&gt; under the mentorship of Dr. &lt;a href=&quot;https://www.cs.wm.edu/~denys/index.html&quot;&gt;Denys Poshyvanyk&lt;/a&gt;. I currently work as a member of &lt;strong&gt;&lt;a href=&quot;https://www.cs.wm.edu/semeru/&quot;&gt;SEMERU&lt;/a&gt;&lt;/strong&gt; research laboratory. I am a Software Engineer with many years of experience in research and industry.&lt;/p&gt;
 
-&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
+&lt;p&gt;My research interest are &lt;strong&gt;Software Engineering, Machine Learning, Deep Learning Interpretability and Deep Represention&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;#Header Formats
-#Header1
-##Header2&lt;/p&gt;
+&lt;iframe src=&quot;/assets/pdf/curriculum.pdf#toolbar=0&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt;
 
-&lt;p&gt;#Blockquotes&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;#Lists
-##orderd lists&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;one&lt;/li&gt;
-  &lt;li&gt;two&lt;/li&gt;
-  &lt;li&gt;three&lt;/li&gt;
-&lt;/ol&gt;
 
-&lt;p&gt;##unorderd lists&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Apple&lt;/li&gt;
-  &lt;li&gt;Banana&lt;/li&gt;
-  &lt;li&gt;Plum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;#Links
-This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;#Combinations&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Apple&lt;/li&gt;
-    &lt;li&gt;Banana&lt;/li&gt;
-    &lt;li&gt;Plum&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;/iframe&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 09:34:25 -0500</pubDate>
-        <link>http://localhost:4000/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <pubDate>Sun, 14 Aug 2022 09:34:25 -0400</pubDate>
+        <link>http://localhost:4000/about/2022/08/14/about.html</link>
+        <guid isPermaLink="true">http://localhost:4000/about/2022/08/14/about.html</guid>
         
-        <category>featured</category>
+        <category>post</category>
         
         
-        <category>mediator</category>
-        
-        <category>feature</category>
+        <category>about</category>
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Teaching Experience</title>
+        <description>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt; 
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;lecturer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;software_engineering_II&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;January&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2018&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;August&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2019&lt;/span&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;lecturer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data_structures&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;August&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2018&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;December&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2018&lt;/span&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;lecturer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;object_oriented_programming&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;July&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2016&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;December&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2017&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt; 
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;teaching_assistant&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;test_automation&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;los&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Andes&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;March&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2022&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;June&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2022&lt;/span&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;teaching_assistant&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;software_evolution_and_maintenance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;June&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;August&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;footer&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;site-footer&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;subscribe&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/feed.xml&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;tooltip&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;fa fa-rss&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/i&amp;gt; Subscribe!&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;span&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;inner&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;copyright&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;All&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;copyright&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;mailto:a-mail@mail.mail&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Dirk&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Fabisch&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt; &amp;amp;copy; 2022 &amp;amp;bull; All rights reserved.&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-   &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;poweredby&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Made&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;http://jekyllrb.com&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;section&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
-&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/footer&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;teaching_assistant&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;object_oriented_programming&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;February&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;November&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;teaching_assistant&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data_structures&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Universidad&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Nacional&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;de&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Colombia&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;prints&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;February&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2014&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;November&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2014&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Fri, 29 Aug 2014 10:34:25 -0400</pubDate>
-        <link>http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 13 Aug 2022 16:34:25 -0400</pubDate>
+        <link>http://localhost:4000/teaching/2022/08/13/teaching-experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/teaching/2022/08/13/teaching-experience.html</guid>
         
-        <category>featured</category>
+        <category>post</category>
         
         
-        <category>jekyll</category>
+        <category>teaching</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Publications</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;J. Hernández-Serrato, A. Velasco, Y. Nifio and M. Linares-Vásquez, “Applying Machine Learning with Chaos Engineering,” 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2020, pp. 151-152, doi: 10.1109/ISSREW51248.2020.00057.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Velasco, A. and Aponte, J. 2020. Automated Fine Grained Traceability Links Recovery between High Level Requirements and Source Code Implementations. ParadigmPlus. 1, 2 (Aug. 2020), 18-41. DOI:https://doi.org/10.55969/paradigmplus.v1n2a2.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Velasco, A., Aponte Melo, J.H. (2019). Recovering Fine Grained Traceability Links Between Software Mandatory Constraints and Source Code. In: Florez, H., Leon, M., Diaz-Nafria, J., Belli, S. (eds) Applied Informatics. ICAI 2019. Communications in Computer and Information Science, vol 1051. Springer, Cham. https://doi.org/10.1007/978-3-030-32475-9_37&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;D. Delgado, A. Velasco, J. Aponte and A. Marcus, “Evolving a Project-Based Software Engineering Course: A Case Study,” 2017 IEEE 30th Conference on Software Engineering Education and Training (CSEE&amp;amp;T), 2017, pp. 77-86, doi: 10.1109/CSEET.2017.22.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 13 Aug 2022 10:34:25 -0400</pubDate>
+        <link>http://localhost:4000/publications/2022/08/13/publications.html</link>
+        <guid isPermaLink="true">http://localhost:4000/publications/2022/08/13/publications.html</guid>
+        
+        <category>post</category>
+        
+        
+        <category>publications</category>
         
       </item>
     
