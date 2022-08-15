@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Aug 2022 20:33:12 -0400</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2022 20:33:12 -0400</lastBuildDate>
+    <pubDate>Mon, 15 Aug 2022 13:15:08 -0400</pubDate>
+    <lastBuildDate>Mon, 15 Aug 2022 13:15:08 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
         <title>About me</title>
-        <description>&lt;p&gt;Greetings! my name is &lt;strong&gt;Alejandro Velasco&lt;/strong&gt;. I am a PhD Student of Computer Science at &lt;a href=&quot;https://www.wm.edu&quot;&gt;William and Mary&lt;/a&gt; under the mentorship of Dr. &lt;a href=&quot;https://www.cs.wm.edu/~denys/index.html&quot;&gt;Denys Poshyvanyk&lt;/a&gt;. I currently work as a member of &lt;strong&gt;&lt;a href=&quot;https://www.cs.wm.edu/semeru/&quot;&gt;SEMERU&lt;/a&gt;&lt;/strong&gt; research laboratory. I am a Software Engineer with many years of experience in research and industry.&lt;/p&gt;
+        <description>&lt;p&gt;Greetings! my name is &lt;strong&gt;Alejandro Velasco&lt;/strong&gt;. I am a PhD Student of Computer Science at &lt;a href=&quot;https://www.wm.edu&quot;&gt;William and Mary&lt;/a&gt; under the mentorship of Dr. &lt;a href=&quot;https://www.cs.wm.edu/~denys/index.html&quot;&gt;Denys Poshyvanyk&lt;/a&gt;. I currently work as a member of &lt;strong&gt;&lt;a href=&quot;https://www.cs.wm.edu/semeru/&quot;&gt;SEMERU&lt;/a&gt;&lt;/strong&gt; research laboratory. I am a Software Engineer with years of experience in research and industry.&lt;/p&gt;
 
 &lt;p&gt;My research interest are &lt;strong&gt;Software Engineering, Machine Learning, Deep Learning Interpretability and Deep Represention&lt;/strong&gt;.&lt;/p&gt;
 
