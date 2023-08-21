@@ -6,6 +6,8 @@ categories: publications
 tags: post
 ---
 
+>  D. Delgado, A. Velasco, J. Aponte and A. Marcus, "Evolving a Project-Based Software Engineering Course: A Case Study," 2017 IEEE 30th Conference on Software Engineering Education and Training (CSEE&T), Savannah, GA, 2017, pp. 77-86. https://ieeexplore.ieee.org/document/8166686
+
 > J. Hernández-Serrato, A. Velasco, Y. Nifio and M. Linares-Vásquez, "Applying Machine Learning with Chaos Engineering," 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2020, pp. 151-152, doi: 10.1109/ISSREW51248.2020.00057.
 
 > Velasco, A. and Aponte, J. 2020. Automated Fine Grained Traceability Links Recovery between High Level Requirements and Source Code Implementations. ParadigmPlus. 1, 2 (Aug. 2020), 18-41. DOI:https://doi.org/10.55969/paradigmplus.v1n2a2.
