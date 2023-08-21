@@ -6,7 +6,7 @@ categories: publications
 tags: post
 ---
 
->  D. Delgado, A. Velasco, J. Aponte and A. Marcus, "Evolving a Project-Based Software Engineering Course: A Case Study," 2017 IEEE 30th Conference on Software Engineering Education and Training (CSEE&T), Savannah, GA, 2017, pp. 77-86. https://ieeexplore.ieee.org/document/8166686
+>  D. N. Palacio, A. Velasco, D. Rodriguez-Cardenas, K. Moran, and D. Poshyvanyk, “Evaluating and Explaining Large Language Models for Code Using Syntactic Structures.” arXiv, Aug. 07, 2023. doi: 10.48550/arXiv.2308.03873.
 
 > J. Hernández-Serrato, A. Velasco, Y. Nifio and M. Linares-Vásquez, "Applying Machine Learning with Chaos Engineering," 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2020, pp. 151-152, doi: 10.1109/ISSREW51248.2020.00057.
 
