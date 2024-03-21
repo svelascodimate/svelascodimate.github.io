@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Teaching Experience"
-date:   2022-08-13 20:34:25
 categories: teaching
 tags: post
 ---
@@ -20,6 +19,16 @@ def lecturer(object_oriented_programming)
 prints Universidad Nacional de Colombia
 prints July 2016 - December 2017
 {% endhighlight %}
+
+{% highlight ruby %} 
+def teaching_assistant(applied_cybersecurity) 
+prints William & Mary
+prints Spring 2024
+
+{% highlight ruby %} 
+def teaching_assistant(software_engineering) 
+prints William & Mary
+prints Fall 2022, Fall 2023
 
 {% highlight ruby %} 
 def teaching_assistant(test_automation) 
