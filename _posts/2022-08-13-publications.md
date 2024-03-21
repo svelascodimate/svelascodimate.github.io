@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Publications"
-date:   2022-08-13 14:34:25
 categories: publications
 tags: post
 ---
+> D. N. Palacio, A. Velasco, N. Cooper, A. Rodriguez, K. Moran, and D. Poshyvanyk, “Toward a Theory of Causation for Interpreting Neural Code Models.” arXiv, Mar. 18, 2024. doi: 10.48550/arXiv.2302.03788.
+
+> A. Velasco, D. N. Palacio, D. Rodriguez-Cardenas, and D. Poshyvanyk, “Which Syntactic Capabilities Are Statistically Learned by Masked Language Models for Code?” Feb. 21, 2024. doi: 10.1145/3639476.3639768.
 
 >  D. N. Palacio, A. Velasco, D. Rodriguez-Cardenas, K. Moran, and D. Poshyvanyk, “Evaluating and Explaining Large Language Models for Code Using Syntactic Structures.” arXiv, Aug. 07, 2023. doi: 10.48550/arXiv.2308.03873.
 
