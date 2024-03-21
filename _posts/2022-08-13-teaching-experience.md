@@ -10,10 +10,12 @@ tags: post
 def lecturer(software_engineering_II) 
 prints Universidad Nacional de Colombia
 prints January 2018 - August 2019
+{% endhighlight %}
 
 def lecturer(data_structures) 
 prints Universidad Nacional de Colombia
 prints August 2018 - December 2018
+{% endhighlight %}
 
 def lecturer(object_oriented_programming) 
 prints Universidad Nacional de Colombia
@@ -25,12 +27,10 @@ def teaching_assistant(applied_cybersecurity)
 prints William & Mary
 prints Spring 2024
 
-{% highlight ruby %} 
 def teaching_assistant(software_engineering) 
 prints William & Mary
 prints Fall 2022, Fall 2023
 
-{% highlight ruby %} 
 def teaching_assistant(test_automation) 
 prints Universidad de los Andes (Colombia)
 prints March 2022 - June 2022
