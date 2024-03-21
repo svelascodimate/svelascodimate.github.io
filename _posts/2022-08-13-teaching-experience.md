@@ -10,12 +10,10 @@ tags: post
 def lecturer(software_engineering_II) 
 prints Universidad Nacional de Colombia
 prints January 2018 - August 2019
-{% endhighlight %}
 
 def lecturer(data_structures) 
 prints Universidad Nacional de Colombia
 prints August 2018 - December 2018
-{% endhighlight %}
 
 def lecturer(object_oriented_programming) 
 prints Universidad Nacional de Colombia
